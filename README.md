@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=300&section=header&text=STEN-X&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Architect%20of%20Digital%20Realms%20%F0%9F%8C%8C&descAlign=50&descAlignY=55&descSize=20" width="100%" alt="Sten-X Header"/>
 
   <a href="https://github.com/Sten-X">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+I'm+Sten-X+👋;Full-Stack+Developer+%26+Bot+Specialist+🤖;Creator+of+the+Atlas+MD+Ecosystem+🌌;Building+Logic+with+Love+%26+Caffeine+☕;Exploring+AI,+Automation+%26+Game+Dev+🎮&font=Fira+Code&center=true&width=600&height=50&color=f778ba&vCenter=true&size=24" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+I'm+Sten-X+👋;Full-Stack+Developer+%26+Bot+Specialist+🤖;Creator+of+Marin+Kitagawa+MD+🎀;Building+Logic+with+Love+%26+Caffeine+☕;Exploring+AI,+Automation+%26+Game+Dev+🎮&font=Fira+Code&center=true&width=600&height=50&color=f778ba&vCenter=true&size=24" alt="Typing Bio" />
   </a>
 
   <br>
@@ -28,6 +28,7 @@
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=Sten-X&label=PROFILE+VIEWS&style=flat-square&color=f778ba" alt="Sten-X Profile Views" />
+  <img src="https://img.shields.io/badge/Vibe-Coding_Mode_ON_🎧-00f2ea?style=flat-square&logo=spotify&logoColor=white" />
   <br><br>
 
 </div>
@@ -36,7 +37,7 @@
 
 ## 🔮 **Who is Sten-X?**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 15px;" />
 
 I am a **Visionary Developer** and **System Architect** based in India. I don't just write code; I create interactive experiences. My expertise lies in building high-performance Bots, Automation scripts, and Game Engines on top of messaging platforms like WhatsApp.
 
@@ -49,15 +50,30 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
 
 ---
 
-## 🛠️ **My Technical Arsenal**
+## 🚀 **My Technical Arsenal (Animated)**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,express,django,mongodb,mysql,firebase,redis,git,github,heroku,linux,docker,bash,vscode,postman,figma,ps&perline=12&theme=dark" />
+  <br>
+  <marquee direction="left" scrollamount="8" width="80%">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,express,django&theme=dark" style="margin: 0 15px;" />
+  </marquee>
+  
+  <br>
+  
+  <marquee direction="right" scrollamount="8" width="80%">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,git,github,heroku,linux,docker,bash&theme=dark" style="margin: 0 15px;" />
+  </marquee>
+  
+  <br>
+  
+  <marquee direction="left" scrollamount="8" width="80%">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps,ai,md&theme=dark" style="margin: 0 15px;" />
+  </marquee>
 </div>
 
 ---
 
-## 🚀 **Featured Projects (The Portfolio)**
+## 💎 **Featured Projects (The Portfolio)**
 
 > _Here are the systems I have engineered. Click on the titles to explore._
 
@@ -139,7 +155,7 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
 
 <div align="center">
   
-  <h3>🎀 Developer's Quote</h3>
+  <h3>🌸 Developer's Quote</h3>
   <a href="https://github.com/Sten-X">
     <img src="https://anime-chan.vercel.app/api/random" width="100%" style="border-radius:10px" />
   </a>
