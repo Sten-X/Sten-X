@@ -1,110 +1,199 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Sten-X!+👋;A+Passionate+Full-Stack+Developer+🚀;Creator+of+Atlas+MD+Universe+🌌;Turning+Caffeine+into+Code+☕;Master+of+Bots+%26+Automation+🤖&font=Fira+Code&center=true&width=500&height=50&color=00f2ea&vCenter=true&size=25" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=300&section=header&text=STEN-X&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Architect%20of%20Digital%20Realms%20%F0%9F%8C%8C&descAlign=50&descAlignY=55&descSize=20" width="100%" alt="Sten-X Header"/>
+
+  <a href="https://github.com/Sten-X">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+I'm+Sten-X+👋;Full-Stack+Developer+%26+Bot+Specialist+🤖;Creator+of+the+Atlas+MD+Ecosystem+🌌;Building+Logic+with+Love+%26+Caffeine+☕;Exploring+AI,+Automation+%26+Game+Dev+🎮&font=Fira+Code&center=true&width=600&height=50&color=f778ba&vCenter=true&size=24" alt="Typing Bio" />
   </a>
 
-  <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" height="300px" style="object-fit: cover; border-radius: 15px;" alt="Banner">
+  <br>
+
+  <p>
+    <a href="https://github.com/Sten-X">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+    </a>
+    <a href="https://instagram.com/sten_x">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+    </a>
+    <a href="https://wa.me/918340732265">
+      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+    </a>
+    <a href="mailto:contact@stenx.dev">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+    </a>
+  </p>
+
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Sten-X&label=PROFILE+VIEWS&style=flat-square&color=f778ba" alt="Sten-X Profile Views" />
+  <br><br>
+
+</div>
+
+---
+
+## 🔮 **Who is Sten-X?**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+
+I am a **Visionary Developer** and **System Architect** based in India. I don't just write code; I create interactive experiences. My expertise lies in building high-performance Bots, Automation scripts, and Game Engines on top of messaging platforms like WhatsApp.
+
+* 🔭 **I’m currently working on:** Scaling the **Atlas MD Universe** and developing proprietary Web Scrapers.
+* 🌱 **I’m currently learning:** Neural Networks & Advanced Cyber Security Protocols.
+* 👯 **I’m looking to collaborate on:** Open Source AI projects & Bot Infrastructures.
+* 🤔 **I’m looking for help with:** Optimizing heavy MongoDB aggregations.
+* 💬 **Ask me about:** Node.js, Baileys, Puppeteer, or Anime Waifus.
+* ⚡ **Fun fact:** I can debug code in my sleep (literally).
+
+---
+
+## 🛠️ **My Technical Arsenal**
+
+<div align="center">
+
+| **Category** | **Technologies & Tools** |
+| :---: | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&theme=dark" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&theme=dark" /> |
+| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=git,github,heroku,linux,docker,bash&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps&theme=dark" /> |
+
+</div>
+
+---
+
+## 🚀 **Featured Projects (The Portfolio)**
+
+> _Here are the systems I have engineered. Click on the titles to explore._
+
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="40%" align="center">
+        <a href="https://github.com/Sten-X/Atlas-MD">
+        <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Atlas MD" />
+        </a>
+    </td>
+    <td width="60%">
+      <h3>🎀 <a href="https://github.com/Sten-X/Atlas-MD">Atlas MD (Marin Kitagawa Edition)</a></h3>
+      <p>
+        The Flagship Project. A revolutionary <b>WhatsApp Multi-Device Bot</b> that functions as a complete Operating System for groups.
+      </p>
+      <ul>
+        <li>🃏 <b>Card Engine:</b> Custom built trading card game with scraping capabilities.</li>
+        <li>⚡ <b>RPG System:</b> Leveling, Economy, Inventory management.</li>
+        <li>🛡️ <b>Security:</b> Enterprise-grade group moderation tools.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/github/stars/Sten-X/Atlas-MD?style=social" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/Sten-X/Atlas-MD?style=social" alt="Forks" />
+        <img src="https://img.shields.io/badge/Language-Node.js-green" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>🕷️ <a href="#">Shoob.gg Advanced Scraper</a></h3>
+      <p>
+        A high-performance web scraping tool engineered with <b>Puppeteer & Browserless</b>.
+      </p>
+      <ul>
+        <li>🔍 <b>Stealth Mode:</b> Bypasses Cloudflare and Anti-Bot protections.</li>
+        <li>🚀 <b>Proxy Support:</b> Integrated rotating proxy management.</li>
+        <li>📦 <b>Data Formatting:</b> Auto-converts data into JSON for Atlas MD.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Private-red" />
+        <img src="https://img.shields.io/badge/Tech-Puppeteer-orange" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/26tn33ai01UfXXad2/giphy.gif" width="100%" style="border-radius:10px;" alt="Scraper" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/QvXe5mq8tbnjtHz0F4/giphy.gif" width="100%" style="border-radius:10px;" alt="AI" />
+    </td>
+    <td width="60%">
+      <h3>🧠 <a href="#">Project: Neural-X (Upcoming)</a></h3>
+      <p>
+        An experimental AI Chatbot integrated with GPT-4 and Stable Diffusion.
+      </p>
+      <ul>
+        <li>🎨 <b>Image Gen:</b> Generates art directly in chat.</li>
+        <li>🗣️ <b>Voice Mode:</b> Responds with audio voice notes.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In_Development-blue" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **Developer Analytics**
+
+<div align="center">
+
+  <h3>🏆 Trophy Case</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sten-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
 
   <br><br>
 
-  <p>
-    <a href="https://instagram.com/sten_x"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="mailto:contact@stenx.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://wa.me/918340732265"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  </p>
-
-</div>
-
----
-
-### 👨‍💻 **About Me (The Developer)**
-
-I am **Sten-X**, a developer driven by creativity and complex logic. My coding journey isn't just about syntax; it's about building ecosystems. I specialize in backend automation, bot development, and creating interactive experiences on platforms like WhatsApp.
-
-- 🔭 **Currently working on:** Expanding the **Atlas MD Universe** and exploring AI integrations.
-- 🌱 **Learning:** Advanced Cyber Security & High-Scale Database Management.
-- ⚡ **Superpower:** I can debug code just by staring at it (sometimes).
-- 🎯 **Goal:** To create open-source projects that define the next generation of chat automation.
-
----
-
-### 🚀 **My Tech Arsenal**
-
-<div align="center">
   <table>
     <tr>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sten-X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&icon_color=00f2ea" alt="Sten-X Stats" height="180" />
       </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express"/>
-        <br>Express
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="90">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51907f9890c8.png" width="65" height="65" alt="Puppeteer"/>
-        <br>Puppeteer
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
-        <br>Git
-      </td>
-      <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux"/>
-        <br>Linux
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sten-X&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&icon_color=00f2ea" alt="Top Languages" height="180" />
       </td>
     </tr>
   </table>
+
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sten-X&theme=tokyonight&hide_border=true&background=0D1117&ring=f778ba&fire=f778ba&currStreakLabel=f778ba" alt="Streak Stats" width="85%" />
+
 </div>
 
 ---
 
-### 🌟 **Featured Projects**
-
-> _Here are some of the heavy-hitters I've built. More coming soon!_
-
-#### 🎀 **1. Atlas MD (Marin Kitagawa Edition)**
-A flagship Multi-Device WhatsApp Bot that redefines group interaction. It's not just a bot; it's a game engine.
-- **🃏 Card Trading System:** Full-fledged economy with Scraped Anime Cards (Shoob.gg), Trading, and Deck management.
-- **⚡ Pokémon Engine:** Catch, Evolve, and Battle system built from scratch.
-- **🛡️ Security:** Anti-Link, Anti-Badword, and Auto-Mod capabilities.
-- **🌐 Tech:** Uses Baileys Library, MongoDB Aggregations, and Canvas rendering.
-
-#### 🔧 **2. Web Scrapers & APIs (Upcoming)**
-- Custom-built scrapers for high-demand data.
-- API endpoints for developers.
-
----
-
-### 📊 **GitHub Stats**
-
+## 🐍 **Contribution Snake**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sten-X&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000" alt="Sten-X's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sten-X&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000" alt="Top Languages" height="180"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sten-X&theme=midnight-purple&hide_border=true&background=000000" alt="Streak" />
-</div>
-
----
-
-### 🐍 **Snake Game! (Eat the contribution dots)**
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-snake.vercel.app/github-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's build something incredible together.</i><br>
-  <b>© 2024 Sten-X | Atlas MD Universe</b>
+  
+  <h3>🌸 Developer's Quote</h3>
+  <a href="https://github.com/Sten-X">
+    <img src="https://anime-chan.vercel.app/api/random" width="100%" style="border-radius:10px" />
+  </a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Sten-X&fontSize=25&fontAlign=50" width="100%" />
+
 </div>
