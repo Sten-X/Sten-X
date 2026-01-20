@@ -82,7 +82,7 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
   <tr>
     <td width="40%" align="center">
         <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
-        <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Marin Kitagawa MD" />
+        <img src="https://images7.alphacoders.com/121/1210002.png" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Marin Kitagawa MD" />
         </a>
     </td>
     <td width="60%">
