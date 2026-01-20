@@ -21,9 +21,6 @@
     <a href="mailto:contact@stenx.dev">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
     </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
-    </a>
   </p>
 
   <br>
@@ -37,56 +34,60 @@
 
 ## 🔮 **Who is Sten-X?**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 15px;" />
-
-I am a **Visionary Developer** and **System Architect** based in India. I don't just write code; I create interactive experiences. My expertise lies in building high-performance Bots, Automation scripts, and Game Engines on top of messaging platforms like WhatsApp.
-
-* 🔭 **I’m currently working on:** Scaling the **Atlas MD Universe** and developing proprietary Web Scrapers.
-* 🌱 **I’m currently learning:** Neural Networks & Advanced Cyber Security Protocols.
-* 👯 **I’m looking to collaborate on:** Open Source AI projects & Bot Infrastructures.
-* 🤔 **I’m looking for help with:** Optimizing heavy MongoDB aggregations.
-* 💬 **Ask me about:** Node.js, Baileys, Puppeteer, or Anime Waifus.
-* ⚡ **Fun fact:** I can debug code in my sleep (literally).
-
----
-
-## 🚀 **My Technical Arsenal (Animated)**
-
 <div align="center">
-  <br>
-  <marquee direction="left" scrollamount="8" width="80%">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,express,django&theme=dark" style="margin: 0 15px;" />
-  </marquee>
-  
-  <br>
-  
-  <marquee direction="right" scrollamount="8" width="80%">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,git,github,heroku,linux,docker,bash&theme=dark" style="margin: 0 15px;" />
-  </marquee>
-  
-  <br>
-  
-  <marquee direction="left" scrollamount="8" width="80%">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps,ai,md&theme=dark" style="margin: 0 15px;" />
-  </marquee>
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="border-radius: 15px;" />
+    </td>
+    <td width="70%">
+      I am a **Visionary Developer** and **System Architect** based in India. I don't just write code; I create interactive experiences. My expertise lies in building high-performance Bots, Automation scripts, and Game Engines on top of messaging platforms like WhatsApp.
+      <br><br>
+      <ul>
+      <li>🔭 <b>Working on:</b> Scaling the <b>Atlas MD Universe</b> & Web Scrapers.</li>
+      <li>🌱 <b>Learning:</b> Neural Networks & Cyber Security Protocols.</li>
+      <li>💬 <b>Ask me about:</b> Node.js, Baileys, Puppeteer, or Anime Waifus.</li>
+      <li>⚡ <b>Fun fact:</b> I can debug code in my sleep (literally).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## 💎 **Featured Projects (The Portfolio)**
+## 🚀 **My Technical Arsenal (Fully Animated)**
 
-> _Here are the systems I have engineered. Click on the titles to explore._
+<div align="center">
+  
+  <marquee direction="left" scrollamount="10" width="90%">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,express,django&theme=dark" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,postgres&theme=dark" style="margin: 0 15px;" />
+  </marquee>
+  
+  <br>
+  
+  <marquee direction="right" scrollamount="10" width="90%">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,linux,docker,bash,aws,gcp&theme=dark" style="margin: 0 15px;" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps,ai,md,vim&theme=dark" style="margin: 0 15px;" />
+  </marquee>
+  
+</div>
+
+---
+
+## 💎 **Featured Projects**
 
 <div align="center">
 
 <table border="0" width="100%">
   <tr>
-    <td width="40%" align="center">
+    <td width="45%" align="center">
         <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
-        <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Marin Kitagawa MD" />
+        <img src="https://media.giphy.com/media/26tn33ai01UfXXad2/giphy.gif" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Marin Kitagawa MD" />
         </a>
     </td>
-    <td width="60%">
+    <td width="55%">
       <h3>🎀 <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">Marin Kitagawa MD</a></h3>
       <p>
         The Flagship Project. A revolutionary <b>WhatsApp Multi-Device Bot</b> that functions as a complete Operating System for groups.
@@ -138,17 +139,6 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sten-X&theme=tokyonight&hide_border=true&background=0D1117&ring=f778ba&fire=f778ba&currStreakLabel=f778ba" alt="Streak Stats" width="85%" />
 
-</div>
-
----
-
-## 🐍 **Contribution Snake**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
