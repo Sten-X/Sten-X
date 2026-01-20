@@ -52,15 +52,7 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
 ## 🛠️ **My Technical Arsenal**
 
 <div align="center">
-
-| **Category** | **Technologies & Tools** |
-| :---: | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis&theme=dark" /> |
-| **DevOps/Cloud** | <img src="https://skillicons.dev/icons?i=git,github,heroku,linux,docker,bash&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,figma,ps&theme=dark" /> |
-
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java,nodejs,express,django,mongodb,mysql,firebase,redis,git,github,heroku,linux,docker,bash,vscode,postman,figma,ps&perline=12&theme=dark" />
 </div>
 
 ---
@@ -74,12 +66,12 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
 <table border="0" width="100%">
   <tr>
     <td width="40%" align="center">
-        <a href="https://github.com/Sten-X/Atlas-MD">
-        <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Atlas MD" />
+        <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">
+        <img src="https://i.imgur.com/3Fj5x8x.jpeg" width="100%" style="border-radius:10px; box-shadow: 0px 0px 15px rgba(247, 120, 186, 0.5);" alt="Marin Kitagawa MD" />
         </a>
     </td>
     <td width="60%">
-      <h3>🎀 <a href="https://github.com/Sten-X/Atlas-MD">Atlas MD (Marin Kitagawa Edition)</a></h3>
+      <h3>🎀 <a href="https://github.com/Sten-X/Marin-Kitagawa-MD">Marin Kitagawa MD</a></h3>
       <p>
         The Flagship Project. A revolutionary <b>WhatsApp Multi-Device Bot</b> that functions as a complete Operating System for groups.
       </p>
@@ -89,57 +81,9 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
         <li>🛡️ <b>Security:</b> Enterprise-grade group moderation tools.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/github/stars/Sten-X/Atlas-MD?style=social" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/Sten-X/Atlas-MD?style=social" alt="Forks" />
+        <img src="https://img.shields.io/github/stars/Sten-X/Marin-Kitagawa-MD?style=social" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/Sten-X/Marin-Kitagawa-MD?style=social" alt="Forks" />
         <img src="https://img.shields.io/badge/Language-Node.js-green" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="60%">
-      <h3>🕷️ <a href="#">Shoob.gg Advanced Scraper</a></h3>
-      <p>
-        A high-performance web scraping tool engineered with <b>Puppeteer & Browserless</b>.
-      </p>
-      <ul>
-        <li>🔍 <b>Stealth Mode:</b> Bypasses Cloudflare and Anti-Bot protections.</li>
-        <li>🚀 <b>Proxy Support:</b> Integrated rotating proxy management.</li>
-        <li>📦 <b>Data Formatting:</b> Auto-converts data into JSON for Atlas MD.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Private-red" />
-        <img src="https://img.shields.io/badge/Tech-Puppeteer-orange" />
-      </p>
-    </td>
-    <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/26tn33ai01UfXXad2/giphy.gif" width="100%" style="border-radius:10px;" alt="Scraper" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/QvXe5mq8tbnjtHz0F4/giphy.gif" width="100%" style="border-radius:10px;" alt="AI" />
-    </td>
-    <td width="60%">
-      <h3>🧠 <a href="#">Project: Neural-X (Upcoming)</a></h3>
-      <p>
-        An experimental AI Chatbot integrated with GPT-4 and Stable Diffusion.
-      </p>
-      <ul>
-        <li>🎨 <b>Image Gen:</b> Generates art directly in chat.</li>
-        <li>🗣️ <b>Voice Mode:</b> Responds with audio voice notes.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Status-In_Development-blue" />
       </p>
     </td>
   </tr>
@@ -157,6 +101,10 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Sten-X&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sten-X&bg_color=0d1117&color=f778ba&line=00f2ea&point=ffffff&hide_border=true" width="100%" alt="3D Graph" />
 
   <br><br>
 
@@ -180,14 +128,18 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
 
 ## 🐍 **Contribution Snake**
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/github-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Sten-X/Sten-X/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
   
-  <h3>🌸 Developer's Quote</h3>
+  <h3>🎀 Developer's Quote</h3>
   <a href="https://github.com/Sten-X">
     <img src="https://anime-chan.vercel.app/api/random" width="100%" style="border-radius:10px" />
   </a>
@@ -195,5 +147,8 @@ I am a **Visionary Developer** and **System Architect** based in India. I don't 
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Sten-X&fontSize=25&fontAlign=50" width="100%" />
+
+  <br>
+  <b> © 2026 Sten-X | Made With Heart For The Open Source Community</b>
 
 </div>
