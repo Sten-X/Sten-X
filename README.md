@@ -1,26 +1,114 @@
-<h1 align="center">Hi 👋, I'm Sten-X</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sten-x&label=Profile%20views&color=0e75b6&style=flat" alt="sten-x" /> </p>
+<h1> Hi there, I'm Sten-X! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sten-x" alt="sten-x" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+💻;Creator+of+Atlas+MD+Bot+🎀;Anime+%26+Gaming+Enthusiast+🎮;Turning+Coffee+into+Code+☕&font=Fira+Code&center=true&width=500&height=50&color=f778ba&vCenter=true&size=25" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **My Own Website**
+---
 
-- 🌱 I’m currently learning **Python,C++,C#**
+### 🌸 About Me 🌸
 
-- 📫 How to reach me **rajdevorcreator@gmail.com**
+Welcome to my creative corner in the digital universe! I'm a passionate developer who loves building interactive and fun applications. My specialty lies in creating complex WhatsApp bots that feel like mini-operating systems.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/stenx001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stenx001" height="30" width="40" /></a>
+✨ I’m currently working on enhancing <b>Atlas MD</b>.<br>
+🌱 I’m currently learning advanced **MongoDB aggregations & Puppeteer automation**.<br>
+🎀 My goal is to blend powerful functionality with cute aesthetics.<br>
+💬 Ask me about **Node.js, Bot Development, or Anime recommendations!**<br>
+⚡ Fun fact: I probably spend more time debugging than coding. 🐛
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sten-x&show_icons=true&locale=en&layout=compact" alt="sten-x" /></p>
+<h2> 🎀 My Masterpiece: Atlas MD Bot 🎀 </h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sten-x&show_icons=true&locale=en" alt="sten-x" /></p>
+<p align="center">
+  <a href="https://github.com/Sten-X/LINK_TO_YOUR_BOT_REPO">
+    <img src="https://i.imgur.com/3Fj5x8x.jpeg" alt="Atlas MD Banner" width="600px" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(247, 120, 186, 0.6);">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sten-x&" alt="sten-x" /></p>
+> _More than just a bot, it's an entire entertainment system on WhatsApp!_
+
+Atlas MD (Marin Kitagawa edition) is a multi-device Baileys-based bot packed with features that keep groups alive and engaged.
+
+<div align="left">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Gaming & Fun</h3>
+      <ul>
+        <li>🃏 <b>Advanced Card Trading System:</b> Collect anime cards (scraped live!), trade with friends, and build your deck.</li>
+        <li>⚡ <b>Pokémon Adventure:</b> Catch, train, and battle Pokémon directly in chat.</li>
+        <li>🎲 <b>Casino & Economy:</b> Gambling games, bank system, and currency management.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Core & Moderation</h3>
+      <ul>
+        <li>🛡️ <b>Powerful Admin Tools:</b> Anti-link, anti-spam, and group management features.</li>
+        <li>💻 <b>Advanced Tech:</b> Built with Node.js, utilizes MongoDB for robust data storage, and Puppeteer for web scraping.</li>
+        <li>🎀 <b>Aesthetic Responses:</b> Cute, stylized menus and interactive messages.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <a href="https://github.com/Sten-X/LINK_TO_YOUR_BOT_REPO">
+    <img src="https://img.shields.io/badge/View_Atlas_MD_Repo-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
+
+---
+
+<h3> 🛠️ My Tech Toolbox 🛠️ </h3>
+
+<div align="center">
+  <p>I utilize a variety of tools to bring my ideas to life:</p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,vscode,html,css&theme=light" />
+    </a>
+  </p>
+  </div>
+
+---
+
+<h3> 📈 My GitHub Stats 📈 </h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sten-X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&icon_color=f778ba" alt="Sten-X's Stats" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sten-X&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f778ba&icon_color=f778ba" alt="Top Languages" height="180px"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sten-X&theme=tokyonight&hide_border=true&background=0D1117&ring=f778ba&fire=f778ba&currStreakLabel=f778ba" alt="Streak Stats" />
+</div>
+
+---
+
+<h3> 🎀 Connect With Me 🎀 </h3>
+
+<div align="center">
+  <a href="https://instagram.com/YOUR_INSTA_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+💖;Stay+creative+and+keep+coding!+✨&font=Dancing+Script&center=true&width=400&height=50&color=f778ba&vCenter=true&size=20" alt="Footer" />
+</p>
+
+</div>
