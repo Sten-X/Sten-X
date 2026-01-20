@@ -12,13 +12,13 @@
     <a href="https://github.com/Sten-X">
       <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/>
     </a>
-    <a href="https://instagram.com/sten_x">
+    <a href="https://instagram.com/stenx001">
       <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
     </a>
-    <a href="https://wa.me/918340732265">
+    <a href="https://wa.me/918434573266">
       <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
     </a>
-    <a href="mailto:contact@stenx.dev">
+    <a href="mailto: rajdevorcreator@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
     </a>
     <a href="#">
